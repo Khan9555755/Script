@@ -17,7 +17,9 @@ case $choices in
 	echo "Ending.."
 	;;
 	c)pwd;;
-	*)echo "please privde a valid value"
+	*)echo "please provivde a valid value"
 
 	esac
+
+ echo "Thank you"
 
